@@ -2,12 +2,17 @@
 <h3 align="center">Web Developer | UI/UX Designer | Computer Science Sorceror from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balibhai1010&label=Profile%20views&color=0e75b6&style=flat" alt="balibhai1010" /> </p>
+Siddhant Bali,an tech entrepreneur,is an aspiring Research Scholar at IIIT Delhi.Currently pursuing a B.Tech in Computer Science Engineering & Design.
 
-- 👨‍💻 All of my projects are available at [balinux.me](balinux.me)
+* 🌍  I'm based in Delhi
+* 🖥️  See my portfolio at [MyPorfolio](http://balinux.me/about)
+* ✉️  You can contact me at [Siddhant22496@iiitd.ac.in](mailto:Siddhant22496@iiitd.ac.in)
+* 🚀  I'm currently working on [Human Centered Design Dept. IIIT Delhi](http://hcd.iiitd.ac.in)
+* 🧠  I'm learning Redux ,Shell Scripting ,Arduino ........
+* 🤝  I'm open to collaborating on Arduino,Shell Scripting,Python,Data Structures and Algorithms
+* ⚡  I love Butter Chicken 🍗 ;0
 
-- 📫 How to reach me **siddhant22496@iiitd.ac.in**
 
-- ⚡ Fun fact **I love Butter Chicken ;0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
