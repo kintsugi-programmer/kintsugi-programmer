@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balibhai1010&label=Profile%20views&color=0e75b6&style=flat" alt="balibhai1010" /> </p>
 Siddhant Bali,an tech entrepreneur,is an aspiring Research Scholar at IIIT Delhi.Currently pursuing a B.Tech in Computer Science Engineering & Design.
+<img src="https://raw.githubusercontent.com/kintsugi-programmer/kintsugi-programmer/main/linux-computer.gif" alt="Linux Computer Meme" align="right">
 
 * 🌍  I'm based in Delhi
 * 🖥️  See my portfolio at [MyPorfolio](http://balinux.me/about)
@@ -11,10 +12,6 @@ Siddhant Bali,an tech entrepreneur,is an aspiring Research Scholar at IIIT Delhi
 * 🧠  I'm learning Redux ,Shell Scripting ,Arduino ........
 * 🤝  I'm open to collaborating on Arduino,Shell Scripting,Python,Data Structures and Algorithms
 * ⚡  I love Butter Chicken 🍗 ;0
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/balibhai1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="balibhai1010" height="30" width="40" /></a>
