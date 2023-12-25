@@ -34,20 +34,18 @@ Siddhant Bali,an tech entrepreneur,is an aspiring Research Scholar at IIIT Delhi
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 <br><br>
-
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/balibhai1010"><img src="https://github-readme-stats.vercel.app/api?username=balibhai1010&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="balibhai1010's GitHub stats" /></a>
+<a href="http://www.github.com/KINTSUGI-PROGRAMMER"><img src="https://github-readme-stats.vercel.app/api?username=KINTSUGI-PROGRAMMER&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KINTSUGI-PROGRAMMER's GitHub stats" /></a>
 
-<a href="http://www.github.com/balibhai1010"><img src="https://github-readme-streak-stats.herokuapp.com/?user=balibhai1010&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/KINTSUGI-PROGRAMMER"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KINTSUGI-PROGRAMMER&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-<a href="https://github.com/balibhai1010" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balibhai1010&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/KINTSUGI-PROGRAMMER" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KINTSUGI-PROGRAMMER&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/balibhai1010/LinuxScripts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=balibhai1010&repo=LinuxScripts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/KINTSUGI-PROGRAMMER/LinuxScripts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KINTSUGI-PROGRAMMER&repo=LinuxScripts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br />
+<br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/balibhai1010/balibhai1010.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=balibhai1010&repo=balibhai1010.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/balibhai1010/Advance-Programming-in-JAVA-Coding-Notes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=balibhai1010&repo=Advance-Programming-in-JAVA-Coding-Notes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/KINTSUGI-PROGRAMMER/balibhai1010.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KINTSUGI-PROGRAMMER&repo=balibhai1010.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/KINTSUGI-PROGRAMMER/Advance-Programming-in-JAVA-Coding-Notes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KINTSUGI-PROGRAMMER&repo=Advance-Programming-in-JAVA-Coding-Notes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
