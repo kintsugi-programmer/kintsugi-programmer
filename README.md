@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balibhai1010&label=Profile%20views&color=0e75b6&style=flat" alt="balibhai1010" /> </p>
 Siddhant Bali,an tech entrepreneur,is an aspiring Research Scholar at IIIT Delhi.Currently pursuing a B.Tech in Computer Science Engineering & Design.
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;" align="right"/>
-
 * 🌍  I'm based in Delhi
 * 🖥️  See my portfolio at [MyPorfolio](http://balinux.me/about)
 * ✉️  You can contact me at [Siddhant22496@iiitd.ac.in](mailto:Siddhant22496@iiitd.ac.in)
