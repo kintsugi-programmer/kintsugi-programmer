@@ -6,9 +6,9 @@ Siddhant Bali,an tech entrepreneur,is an aspiring Research Scholar at IIIT Delhi
 <img src="https://raw.githubusercontent.com/kintsugi-programmer/kintsugi-programmer/main/linux-computer.gif" alt="Linux Computer Meme" align="right">
 
 * 🌍  I'm based in Delhi
-* 🖥️  See my portfolio at [MyPorfolio](http://balinux.me/about)
+* 🖥️  See my portfolio at [kintsugidev.studio](https://www.kintsugidev.studio/)
 * ✉️  You can contact me at [Siddhant22496@iiitd.ac.in](mailto:Siddhant22496@iiitd.ac.in)
-* 🚀  I'm currently working on [Human Centered Design Dept. IIIT Delhi](http://hcd.iiitd.ac.in)
+* 🚀  I'm currently working on [Human Centered Design Dept. IIIT Delhi](http://hcd.iiitd.ac.in) [Persisst Lab, IIIT Delhi](https://persisst.iiitd.edu.in/)
 * 🧠  I'm learning Redux ,Shell Scripting ,Arduino ........
 * 🤝  I'm open to collaborating on Arduino,Shell Scripting,Python,Data Structures and Algorithms
 * ⚡  I love Butter Chicken 🍗 ;0
