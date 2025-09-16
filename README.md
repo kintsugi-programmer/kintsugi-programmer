@@ -8,9 +8,8 @@ Siddhant Bali,an tech entrepreneur,is an aspiring Research Scholar at IIIT Delhi
 * 🌍  I'm based in Delhi
 * 🖥️  See my portfolio at [kintsugidev.studio](https://www.kintsugidev.studio/)
 * ✉️  You can contact me at [Siddhant22496@iiitd.ac.in](mailto:Siddhant22496@iiitd.ac.in)
-* 🚀  I'm currently working on [Human Centered Design Dept. IIIT Delhi](http://hcd.iiitd.ac.in) [Persisst Lab, IIIT Delhi](https://persisst.iiitd.edu.in/)
-* 🧠  I'm learning Redux ,Shell Scripting ,Arduino ........
-* 🤝  I'm open to collaborating on Arduino,Shell Scripting,Python,Data Structures and Algorithms
+* 🧠  I'm learning defensive and offensive cybersecurity...
+* 🤝  I'm open to collaborating.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kintsugi-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kintsugi-programmer" height="30" width="40" /></a>
