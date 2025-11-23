@@ -1,15 +1,169 @@
-<h1 align="center">Hi 👋, I'm Siddhant Bali</h1>
+
+<h1 align="center">Hi 👋, I'm Siddhant Bali 👨‍💻 </h1>
 <h3 align="center"> Researcher | Web Developer | UI/UX Designer | Computer Science Sorceror from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balibhai1010&label=Profile%20views&color=0e75b6&style=flat" alt="balibhai1010" /> </p>
-Siddhant Bali,an tech entrepreneur,is an aspiring Research Scholar at IIIT Delhi.Currently pursuing a B.Tech in Computer Science Engineering & Design.
+
+
+> `Coding is Meditation` @[https://www.kintsugidev.studio/](https://www.kintsugidev.studio/)
+
+I am Siddhant Bali 🐻, a full-stack web developer with ~2 years of production engineering experience, specializing in building scalable, secure, and high-performance web platforms using TypeScript, REST architectures, and modern full-stack frameworks.
+
 <img src="https://raw.githubusercontent.com/kintsugi-programmer/kintsugi-programmer/main/linux-computer.gif" alt="Linux Computer Meme" align="right">
 
-* 🌍  I'm based in Delhi
-* 🖥️  See my portfolio at [kintsugidev.studio](https://www.kintsugidev.studio/)
-* ✉️  You can contact me at [Siddhant22496@iiitd.ac.in](mailto:Siddhant22496@iiitd.ac.in)
-* 🧠  I'm learning defensive and offensive cybersecurity...
-* 🤝  I'm open to collaborating.
+I work across backend engineering, frontend systems, UI/UX-driven development, and Linux-based deployments | delivering production-ready solutions for labs, institutions, and organizations that require reliability at scale.
+
+I am an undergraduate student (Batch 2026) in **Computer Science & Design** at **IIIT Delhi**
+
+My focus areas include **backend engineering**, **system design**, **scalable web platforms**, and **AI-driven applications**.
+
+---
+
+## 🧩 Technical Profile
+
+### **Core Expertise**
+
+* **Backend Engineering:**
+  Python (Flask/FastAPI), Node.js, Express, REST APIs, session management, authentication, data modeling.
+
+* **Full-Stack Development:**
+  React, Next.js, Tailwind CSS, TypeScript, responsive UI, SEO, accessibility, build optimization.
+
+* **Systems & Infrastructure:**
+  Linux scripting & automation, Apache/NGINX deployments, SSL/HTTPS, server hardening, CI/CD basics.
+
+* **Databases:**
+  MySQL, PostgreSQL, MongoDB, relational modeling, indexing, query optimization.
+
+* **AI & Automation:**
+  LLM integration, agentic workflows, AI-as-a-Service (AAA-S), prompt engineering, vector stores.
+
+### **Engineering Practices**
+
+* Version control (Git/GitHub)
+* Production debugging
+* Progressive refactoring
+* Secure coding practices (OWASP-inspired)
+* Documentation & architectural clarity
+* Working with cross-functional teams (designers, researchers, clinicians)
+* Delivery under constraints (time, complexity, stakeholder pressure)
+
+---
+
+## 🏢 Professional Experience (Condensed)
+
+### **1. IIITD | Human-Centered Design (HCD) Department**
+
+*Web Developer & Linux Automation*
+
+* Revamped legacy lab websites.
+* Migrated to React + modern pipelines.
+* Automated server tasks on Linux environments.
+* Delivered multiple projects consistently, leading to continued institutional work.
+
+### **2. Persisst Lab | Server & Web Systems**
+
+* Deployed production-ready full-stack systems.
+* Collaborated with designers and junior developers.
+* Introduced workflows for reliability and code quality.
+
+### **3. Microbiome Informatics Lab → AIIMS Delhi Recommendation**
+
+* Automation tools for Linux environments.
+* Website modernization + operational tooling.
+* Received direct recommendation for national-level deployment roles.
+
+### **4. AIIMS Delhi & ICMR | Full-Stack Developer**
+
+**Built an end-to-end clinical data platform:**
+
+* Deployed across **8 hospitals**, with **800+ patient workflows**.
+* Implemented video-data entry pipelines.
+* Designed session, role, and abstraction layers for multi-center testing.
+* Ensured reliability during high-stakes medical evaluations.
+* Interacted with senior clinicians, directors, and domain experts.
+
+### **5. High-Impact IIITD Projects**
+
+* Delivered conference & institute websites under strict deadlines.
+* Built the **1Pixel Design Conference** website single-handedly under 24 hours.
+* Optimized for speed, SEO, security, and cross-device performance.
+
+### **6. Corporate & External Projects**
+
+* CA/CS Bhatiya & Associates, Pune
+* Institute Innovation Council
+* Center for Design and New Media (TCS Foundation × IIITD)
+* Trained junior developers in production standards, Git workflows, deployment fundamentals, and design-engineering collaboration.
+
+![alt text](image-5.png)
+![alt text](image-4.png)
+
+---
+
+## 🏅 Recognitions
+
+### **Distinguished Dean’s List Award (2024–25)**
+
+Recognized for exceptional contributions to IIIT Delhi’s communication and outreach initiatives.
+
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+
+---
+
+## 🔬 Current Interests
+
+* **Full-Stack Generative & Agentic AI**
+* **AI System Reliability & Safety**
+* **Autonomous workflow design**
+* **Secure distributed systems**
+* **Red-team to blue-team cybersecurity fundamentals**
+
+---
+
+## 🛠 Selected Projects
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KINTSUGI-PROGRAMMER&theme=2077" height="180em" />
+</div>
+
+* [https://digitaldrz.vercel.app/](https://digitaldrz.vercel.app/)
+* [https://telemetrytrade.vercel.app/](https://telemetrytrade.vercel.app/)
+* [https://csbhatiya.com/](https://csbhatiya.com/)
+* [https://persisst.iiitd.edu.in/](https://persisst.iiitd.edu.in/)
+* [https://hcd.iiitd.ac.in/](https://hcd.iiitd.ac.in/)
+* [https://1pxdesignconf.iiitd.edu.in/2025/](https://1pxdesignconf.iiitd.edu.in/2025/)
+* [https://dss2025.iiitd.edu.in/](https://dss2025.iiitd.edu.in/)
+* [https://www.kintsugidev.studio/chat](https://www.kintsugidev.studio/chat)
+* [https://lifelore.vercel.app/](https://lifelore.vercel.app/)
+* [https://karmos.vercel.app/](https://karmos.vercel.app/)
+* [https://digitaldrz.vercel.app/](https://digitaldrz.vercel.app/)
+* [https://sarkarisahyogai.vercel.app/](https://sarkarisahyogai.vercel.app/)
+* [https://vital-link-hcl.vercel.app/](https://vital-link-hcl.vercel.app/)
+
+![alt text](image.png)
+---
+
+## 🌐 Community & Leadership
+
+* Lead | Design Core Team, IIITD Cultural Council
+* Lead | Web Dev Team, 1Pixel Design Conference
+* Lead | Videography, IIITD Sports Council
+* Mentor | B.Tech Induction Program
+* Core Team | E-Cell, E-Summit
+* Volunteer | SNM, NSS, SOPS
+
+---
+
+## 📈 Additional Links 
+
+* GitHub (1000+ commits): [https://github.com/kintsugi-programmer](https://github.com/kintsugi-programmer)
+* Blog: [https://kintsugicodes.hashnode.dev/](https://kintsugicodes.hashnode.dev/)
+* Design Portfolio: [https://www.behance.net/balibhai](https://www.behance.net/balibhai)
+* LinkedIn: [https://www.linkedin.com/in/kintsugi-programmer/](https://www.linkedin.com/in/kintsugi-programmer/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kintsugi-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kintsugi-programmer" height="30" width="40" /></a>
@@ -22,8 +176,6 @@ Siddhant Bali,an tech entrepreneur,is an aspiring Research Scholar at IIIT Delhi
 <a href="https://www.behance.net/balibhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="balibhai" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KINTSUGI-PROGRAMMER&theme=darkhub" alt="KINTSUGI-PROGRAMMER" /></a> </p>
@@ -38,7 +190,4 @@ Siddhant Bali,an tech entrepreneur,is an aspiring Research Scholar at IIIT Delhi
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KINTSUGI-PROGRAMMER&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KINTSUGI-PROGRAMMER&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KINTSUGI-PROGRAMMER&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KINTSUGI-PROGRAMMER&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=KINTSUGI-PROGRAMMER&theme=xcode"/>
+
