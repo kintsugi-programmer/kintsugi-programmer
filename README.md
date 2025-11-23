@@ -125,9 +125,6 @@ Recognized for exceptional contributions to IIIT Delhi’s communication and out
 
 ## 🛠 Selected Projects
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KINTSUGI-PROGRAMMER&theme=2077" height="180em" />
-</div>
-
 * [https://digitaldrz.vercel.app/](https://digitaldrz.vercel.app/)
 * [https://telemetrytrade.vercel.app/](https://telemetrytrade.vercel.app/)
 * [https://csbhatiya.com/](https://csbhatiya.com/)
@@ -142,8 +139,6 @@ Recognized for exceptional contributions to IIIT Delhi’s communication and out
 * [https://sarkarisahyogai.vercel.app/](https://sarkarisahyogai.vercel.app/)
 * [https://vital-link-hcl.vercel.app/](https://vital-link-hcl.vercel.app/)
 
-| <img src="image.png" width="280" height="180" style="object-fit: cover;"/> |
-|---|
 ---
 
 ## 🌐 Community & Leadership
@@ -197,3 +192,6 @@ Recognized for exceptional contributions to IIIT Delhi’s communication and out
 | <a href="https://github.com/kintsugi-programmer/kintsugi-stack-java"><img src="kintsugi-stack/1.png" width="220"/> <br> <p align="center">**java**</p></a> | <a href="https://github.com/kintsugi-programmer/kintsugi-stack-java"><img src="kintsugi-stack/1.png" width="220"/> <br> <p align="center">**java**</p></a> | <a href="https://github.com/kintsugi-programmer/kintsugi-stack-java"><img src="kintsugi-stack/1.png" width="220"/> <br> <p align="center">**java**</p></a> |
 |---|---|---|
 | <a href="https://github.com/kintsugi-programmer/kintsugi-stack-java"><img src="kintsugi-stack/1.png" width="220"/> <br> <p align="center">**java**</p></a> | <a href="https://github.com/kintsugi-programmer/kintsugi-stack-java"><img src="kintsugi-stack/1.png" width="220"/> <br> <p align="center">**java**</p></a> | <a href="https://github.com/kintsugi-programmer/kintsugi-stack-java"><img src="kintsugi-stack/1.png" width="220"/> <br> <p align="center">**java**</p></a> |
+
+| <img src="image.png" width="280" height="180" style="object-fit: cover;"/> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KINTSUGI-PROGRAMMER&theme=2077" height="180em" /></div> |
+|---|---|
