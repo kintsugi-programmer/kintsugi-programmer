@@ -96,8 +96,9 @@ My focus areas include **backend engineering**, **system design**, **scalable we
 * Center for Design and New Media (TCS Foundation × IIITD)
 * Trained junior developers in production standards, Git workflows, deployment fundamentals, and design-engineering collaboration.
 
-![alt text](image-5.png)
-![alt text](image-4.png)
+| <img src="image-5.png" width="280" height="180" style="object-fit: cover;"/> | <img src="image-4.png" width="280" height="180" style="object-fit: cover;"/> |
+|---|---|
+
 
 ---
 
@@ -107,9 +108,8 @@ My focus areas include **backend engineering**, **system design**, **scalable we
 
 Recognized for exceptional contributions to IIIT Delhi’s communication and outreach initiatives.
 
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+| <img src="image-1.png" width="280" height="180" style="object-fit: cover;"/> | <img src="image-2.png" width="280" height="180" style="object-fit: cover;"/> | <img src="image-3.png" width="280" height="180" style="object-fit: cover;"/> |
+|---|---|---|
 
 ---
 
@@ -142,7 +142,8 @@ Recognized for exceptional contributions to IIIT Delhi’s communication and out
 * [https://sarkarisahyogai.vercel.app/](https://sarkarisahyogai.vercel.app/)
 * [https://vital-link-hcl.vercel.app/](https://vital-link-hcl.vercel.app/)
 
-![alt text](image.png)
+| <img src="image.png" width="280" height="180" style="object-fit: cover;"/> |
+|---|
 ---
 
 ## 🌐 Community & Leadership
