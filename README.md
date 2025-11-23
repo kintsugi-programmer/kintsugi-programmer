@@ -201,5 +201,5 @@ Recognized for exceptional contributions to IIIT Delhi’s communication and out
 --- 
 
 > Thank You !!!
-> - Love Youself and all around you & Save trees -
+> Love Youself and all around you & Save trees
 > Made with 💚 [kintsugi-programmer](https://github.com/kintsugi-programmer)
