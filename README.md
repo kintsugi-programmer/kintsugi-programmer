@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Siddhant Bali 👨‍💻 </h1>
 <h3 align="center"> Researcher | Web Developer | UI/UX Designer | Computer Science Sorceror from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balibhai1010&label=Profile%20views&color=0e75b6&style=flat" alt="balibhai1010" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=balibhai1010&label=Profile%20views&color=0e75b6&style=flat" alt="balibhai1010" /> </p> -->
 
 
 > `Coding is Meditation` @[https://www.kintsugidev.studio/](https://www.kintsugidev.studio/)
