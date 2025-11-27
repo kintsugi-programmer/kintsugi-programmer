@@ -192,9 +192,49 @@ Recognized for exceptional contributions to IIIT Delhi’s communication and out
 
 ## 👨‍💻 KintsugiStack
 
-| <a href="https://github.com/kintsugi-programmer/kintsugi-stack-java"><img src="kintsugi-stack/1.png" width="220"/> <br> <p align="center">**java**</p></a> | <a href="https://github.com/kintsugi-programmer/kintsugi-stack-sql"><img src="kintsugi-stack/2.png" width="220"/> <br> <p align="center">**sql**</p></a> | <a href="https://github.com/kintsugi-programmer/kintsugi-stack-dsa-cpp"><img src="kintsugi-stack/3.png" width="220"/> <br> <p align="center">**dsa-cpp**</p></a> |
+| <a href="https://github.com/kintsugi-programmer/kintsugi-stack-java">
+<div style="width:220px;height:140px;overflow:hidden;display:flex;justify-content:center;">
+<img src="kintsugi-stack/1.png" style="width:100%;height:100%;object-fit:cover;">
+</div>
+<p align="center"><b>java</b></p>
+</a> |
+
+<a href="https://github.com/kintsugi-programmer/kintsugi-stack-sql">
+<div style="width:220px;height:140px;overflow:hidden;display:flex;justify-content:center;">
+<img src="kintsugi-stack/2.png" style="width:100%;height:100%;object-fit:cover;">
+</div>
+<p align="center"><b>sql</b></p>
+</a> |
+
+<a href="https://github.com/kintsugi-programmer/kintsugi-stack-dsa-cpp">
+<div style="width:220px;height:140px;overflow:hidden;display:flex;justify-content:center;">
+<img src="kintsugi-stack/3.png" style="width:100%;height:100%;object-fit:cover;">
+</div>
+<p align="center"><b>dsa-cpp</b></p>
+</a> |
 |---|---|---|
-| <a href="https://github.com/kintsugi-programmer/kintsugi-stack-dsa-encyclopedia"><img src="kintsugi-stack/4.png" width="220"/> <br> <p align="center">**dsa-encyclopedia**</p></a> | <a href="https://github.com/kintsugi-programmer/kintsugi-stack-sql"><img src="kintsugi-stack/2.png" width="220"/> <br> <p align="center">**sql**</p></a> | <a href="https://github.com/kintsugi-programmer/kintsugi-stack-dsa-cpp"><img src="kintsugi-stack/3.png" width="220"/> <br> <p align="center">**dsa-cpp**</p></a> |
+| <a href="https://github.com/kintsugi-programmer/kintsugi-stack-dsa-encyclopedia">
+<div style="width:220px;height:140px;overflow:hidden;display:flex;justify-content:center;">
+<img src="kintsugi-stack/4.png" style="width:100%;height:100%;object-fit:cover;">
+</div>
+<p align="center"><b>dsa-encyclopedia</b></p>
+</a> |
+
+<a href="https://github.com/kintsugi-programmer/professional-java-hotel-management-software-suite">
+<div style="width:220px;height:140px;overflow:hidden;display:flex;justify-content:center;">
+<img src="kintsugi-stack/5.png" style="width:100%;height:100%;object-fit:cover;">
+</div>
+<p align="center"><b>professional-java-hotel-management-software-suite</b></p>
+</a> |
+
+<a href="https://github.com/kintsugi-programmer/kintsugi-stack-dsa-cpp">
+<div style="width:220px;height:140px;overflow:hidden;display:flex;justify-content:center;">
+<img src="kintsugi-stack/3.png" style="width:100%;height:100%;object-fit:cover;">
+</div>
+<p align="center"><b>dsa-cpp</b></p>
+</a> |
+
+
 
 | <img src="image.png" width="280" height="180" style="object-fit: cover;"/> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KINTSUGI-PROGRAMMER&theme=2077" height="180em" /></div> |
 |---|---|
