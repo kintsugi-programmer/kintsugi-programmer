@@ -174,7 +174,7 @@ Recognized for exceptional contributions to IIIT Delhi’s communication and out
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KINTSUGI-PROGRAMMER&theme=darkhub" alt="KINTSUGI-PROGRAMMER" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KINTSUGI-PROGRAMMER&theme=darkhub" alt="KINTSUGI-PROGRAMMER" /></a> </p> -->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kintsugi.programmer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kintsugi.programmer" /></a><a href="https://ko-fi.com/kintsugiprogrammer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kintsugiprogrammer" /></a></p><br><br>
 
